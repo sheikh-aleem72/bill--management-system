@@ -33,9 +33,9 @@ The Bill Management System is a Python application built using the Tkinter libra
 4. Generate the bill and view the invoice in Window 3.
 
 ## Screenshots
-![Window 1](screenshots/window1.png)
-![Window 2](screenshots/window2.png)
-![Window 3](screenshots/window3.png)
+![Window 1](Screenshots/main-window.png)
+![Window 2](screenshots/bill-window.png)
+![Window 3](screenshots/invoice.png)
 
 ## Contributors
 - [Your Name](https://github.com/yourusername)
