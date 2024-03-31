@@ -1,0 +1,21 @@
+=============================================================
+ELECTRONIC STORE				INVOICE
+
+Invoice: bill		Date: 24/03/2024
+Time: 12:20:21
+Name of Customer: Virat Kohli
+Contact No: df4rwk4k43
+=============================================================
+Item		QUANTITY		UNIT PRICE		TOTAL
+-------------------------------------------------------------
+shirt-350		  3		  350		  1050
+-------------------------------------------------------------
+			Total: 1050
+
+Your discount amount is: 105.0
+Your payable amount is: 945.0
+-------------------------------------------------------------
+
+Thank You Virat Kohli for your shopping.
+See you again!
+=============================================================

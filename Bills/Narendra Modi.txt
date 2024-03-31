@@ -1,0 +1,22 @@
+=============================================================
+ELECTRONIC STORE				INVOICE
+
+Invoice: bill		Date: 24/03/2024
+Time: 12:02:07
+Name of Customer: Narendra Modi
+Contact No: 978583fg94
+=============================================================
+Item		QUANTITY		UNIT PRICE		TOTAL
+-------------------------------------------------------------
+jeans-700		  4		  700		  2800
+tshirt-350		  4		  350		  1400
+-------------------------------------------------------------
+			Total: 4200
+
+Your discount amount is: 420.0
+Your payable amount is: 3780.0
+-------------------------------------------------------------
+
+Thank You Narendra Modi for your shopping.
+See you again!
+=============================================================
