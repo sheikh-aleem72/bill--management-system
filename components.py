@@ -105,7 +105,7 @@ def buttonFrameComponents(buttonsFrame):
 
     # Naming instruction information
     
-    nameInput.bind("<FocusIn>", namingInstructions)
+    # nameInput.bind("<FocusIn>", namingInstructions)
 
     # Initializing local variables to global variables
     name = nameInput
@@ -201,6 +201,6 @@ def removeItem():
 
 
 # Validating name
-def namingInstructions(event = None):
-    messagebox.showinfo("Naming Process","The name should be combination of Item Name and Item Price separated by '-'\nE.g:- Name - shirt\nPrice - 300\nName - 'shirt-300'")
-    name.unbind("<FocusIn>")
+# def namingInstructions(event = None):
+#     messagebox.showinfo("Naming Process","The name should be combination of Item Name and Item Price separated by '-'\nE.g:- Name - shirt\nPrice - 300\nName - 'shirt-300'")
+#     name.unbind("<FocusIn>")
