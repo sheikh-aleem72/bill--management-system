@@ -38,7 +38,7 @@ The Bill Management System is a Python application built using the Tkinter libra
 ![Window 3](Screenshots/invoice.png)
 
 ## Contributors
-- [Your Name](https://github.com/sheikh-aleem72)
+- [Shekh Aalim](https://github.com/sheikh-aleem72)
 
 
 ## Acknowledgements
