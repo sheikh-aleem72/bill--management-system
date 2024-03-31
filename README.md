@@ -33,16 +33,13 @@ The Bill Management System is a Python application built using the Tkinter libra
 4. Generate the bill and view the invoice in Window 3.
 
 ## Screenshots
-![Window 1](screenshots/window1.png)
-![Window 2](screenshots/window2.png)
-![Window 3](screenshots/window3.png)
+![Window 1](Screenshots/main-window.png)
+![Window 2](Screenshots/bill-window.png)
+![Window 3](Screenshots/invoice.png)
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/sheikh-aleem72)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 - Thanks to [Tkinter](https://docs.python.org/3/library/tkinter.html) for providing the GUI framework.
-- Special thanks to [OpenAI](https://openai.com) for their assistance and support.
